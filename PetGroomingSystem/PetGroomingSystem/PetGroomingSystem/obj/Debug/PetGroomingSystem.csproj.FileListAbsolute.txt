@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\PetGroomingSystem\PetGroomingSystem\PetGroomingSystem\bin\Debug\PetGroomingSystem.exe
+C:\Users\ACER\Desktop\PetGroomingSystem\PetGroomingSystem\PetGroomingSystem\obj\Debug\PetGroomingSystem.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\PetGroomingSystem\PetGroomingSystem\PetGroomingSystem\obj\Debug\PetGroomingSystem.frmMain.resources
+C:\Users\ACER\Desktop\PetGroomingSystem\PetGroomingSystem\PetGroomingSystem\obj\Debug\PetGroomingSystem.frmOwner.resources
+C:\Users\ACER\Desktop\PetGroomingSystem\PetGroomingSystem\PetGroomingSystem\obj\Debug\PetGroomingSystem.Properties.Resources.resources
+C:\Users\ACER\Desktop\PetGroomingSystem\PetGroomingSystem\PetGroomingSystem\obj\Debug\PetGroomingSystem.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\PetGroomingSystem\PetGroomingSystem\PetGroomingSystem\obj\Debug\PetGroomingSystem.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\PetGroomingSystem\PetGroomingSystem\PetGroomingSystem\bin\Debug\PetGroomingDB.mdf
+C:\Users\ACER\Desktop\PetGroomingSystem\PetGroomingSystem\PetGroomingSystem\bin\Debug\PetGroomingDB_log.ldf
+C:\Users\ACER\Desktop\PetGroomingSystem\PetGroomingSystem\PetGroomingSystem\bin\Debug\PetGroomingSystem.exe.config
+C:\Users\ACER\Desktop\PetGroomingSystem\PetGroomingSystem\PetGroomingSystem\obj\Debug\PetGroomingSystem.exe
+C:\Users\ACER\Desktop\PetGroomingSystem\PetGroomingSystem\PetGroomingSystem\obj\Debug\PetGroomingSystem.pdb
+C:\Users\ACER\Desktop\PetGroomingSystem\PetGroomingSystem\PetGroomingSystem\bin\Debug\PetGroomingSystem.pdb
